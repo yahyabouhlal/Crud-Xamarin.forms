@@ -10,5 +10,8 @@ namespace App_Gestion_des_produits.Model
         public string Name { get; set; }
         public int Prix { get; set; }
         public int stock { get; set; }
+
+
+
     }
 }

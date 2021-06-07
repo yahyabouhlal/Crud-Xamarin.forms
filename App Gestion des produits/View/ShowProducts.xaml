@@ -5,7 +5,7 @@
              x:Class="App_Gestion_des_produits.View.ShowProducts">
     <ContentPage.Content>
         <StackLayout>
-            <Button Text="Add New Record" x:Name="btnAddRecord"  HorizontalOptions="Start"  Clicked="btnAddRecord_Clicked" />
+            <Button Text="Add New Product" x:Name="btnAddRecord"  HorizontalOptions="Start"  Clicked="btnAddRecord_Clicked" />
 
             <Grid>
                 <Grid.RowDefinitions>

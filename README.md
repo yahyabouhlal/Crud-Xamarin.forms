@@ -1,2 +1,0 @@
-# Crud-Xamarin.forms
- 
